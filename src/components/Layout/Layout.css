@@ -1,0 +1,30 @@
+.sidebar-section
+{
+    display: flex;
+    background-color: black;
+}
+
+.sidebar
+{
+    height: 100vh;
+    background-color: rgb(42, 32, 32);
+    width: 100px;
+    position:fixed;
+}
+
+.toggleicon
+{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    cursor: pointer;
+
+}
+.toggleicon p svg {
+    background-color: rgb(227, 249, 249);
+    margin-top: 15px;
+}
+.sidebar-toggle
+{
+  width: 250px;
+}

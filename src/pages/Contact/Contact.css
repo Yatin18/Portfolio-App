@@ -1,0 +1,42 @@
+.contact
+{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.cd
+{
+    display: flex;
+    flex-direction: row;
+}
+.cd .cardimg
+{
+   width: 450px;
+   height: 300px;
+   
+}
+.text hr{
+    color: #138131;
+    width: 300px;
+    margin: 10px auto;
+
+}
+.cd:hover
+{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: 1s;
+    font-weight: bolder;
+}
+.mb
+{
+    margin-top: 10px;
+}
+.text
+{
+    margin-left: 25px;
+}
+.icons:hover
+{
+ cursor: pointer;
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+ transition: 1s;
+}

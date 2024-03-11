@@ -1,0 +1,67 @@
+.home-container
+{
+    height: 320px;
+    color: white;
+   
+}
+.home-content
+{
+    
+    padding: 5px;
+    padding-top: 80px;
+}
+.home-content h2{
+    color: rgb(195, 200, 48);
+    padding: 5px;
+    margin-left: 150px;
+
+}
+.home-content h1{
+   
+    padding: 5px;
+    margin-left: 150px;
+
+}
+.home-button
+{
+    margin-left: 150px;
+    margin-top: 5px;
+
+}
+.home-button .btn-hire
+{
+   color: white;
+   margin-top: 5px;
+   background-color: rgb(52, 52, 181);
+}
+.home-button .btn-hire:hover
+{
+   color:rgb(52, 52, 181);
+   background-color:white ;
+   transition: 1s;
+   width: 150px;
+
+}
+.home-button .btn-2
+{
+    color: white;
+    margin-top: 5px;
+    background-color: rgb(52, 52, 181);
+    margin-left: 20px;
+}
+.home-button .btn-2:hover
+{
+    color:rgb(52, 52, 181);
+    background-color:white ;
+    width: 150px;
+    transition: 1s;
+}
+theme-btn
+{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    text-align: center;
+}

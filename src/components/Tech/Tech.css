@@ -1,0 +1,33 @@
+.tech 
+{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.tech hr{
+    color: #138131;
+    width: 400px;
+    margin: 10px auto;
+
+}
+.tech h2
+{
+    font-weight: bold;
+    color: #138781;
+}
+.tech h2:hover
+{
+    font-weight: bolder;
+    color: rgb(17, 11, 1);
+}
+
+.tech .card-body
+{
+    cursor: pointer;
+}
+.tech .card-body:hover
+{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color:#138781 ;
+    color: white;
+    transition: 1s;
+}

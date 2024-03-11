@@ -1,0 +1,26 @@
+.edu
+{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.edu hr{
+    color: #138131;
+    width: 400px;
+    margin: 10px auto;
+
+}
+.edu h2
+{
+    font-weight: bold;
+    color: #138781;
+}
+.edu h2:hover
+{
+    font-weight: bolder;
+    color: rgb(17, 11, 1);
+}
+.vct
+{
+    padding-left: 150px;
+    padding-top: 20px;
+}
